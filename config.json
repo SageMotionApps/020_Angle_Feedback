@@ -1,0 +1,10 @@
+{
+  "angle_max": 10,
+  "angle_min": -10,
+  "feedback_enabled": true,
+  "last_connect_feedback": [],
+  "last_connect_sensors": [],
+  "local_time": "2024-04-01-12-00-00",
+  "save_mode": "xlsx",
+  "trial_name": "trial_0"
+}
