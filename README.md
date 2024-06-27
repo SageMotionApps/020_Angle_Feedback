@@ -1,4 +1,4 @@
-# 020_Angle_Feedback_Test
+# 020_Angle_Feedback
 This app demonstrates a simple feedback application. The feedback nodes vibrate if the sensor node orientation exceeds minimum or maximum thresholds.
 
 ### Nodes Required: 3 
